@@ -1,13 +1,13 @@
 # Disaster_tweets
 Project Requirements
-1. Goal: You are predicting whether a given tweet is about a real disaster or not. If so, predict 
-a 1. If not, predict a 0.
+1. Goal: You are predicting whether a given tweet is about a real disaster or not. If so, predict a 1. If not, predict a 0.
+
 2. Data: This only contains one file: tweets
- id - a unique identifier for each tweet
- text - the text of the tweet
- location - the location the tweet was sent from (may be blank)
- keyword - a particular keyword from the tweet (may be blank)
- target - this denotes whether a tweet is about a real disaster (1) or not (0)
+ id - a unique identifier for each tweet
+ text - the text of the tweet
+ location - the location the tweet was sent from (may be blank)
+ keyword - a particular keyword from the tweet (may be blank)
+ target - this denotes whether a tweet is about a real disaster (1) or not (0)
 3. Requirements: Please extract features in the dataset and/or create new features via 
 text mining or even network modeling to predict the probability that a given tweet 
 whether contains a real disaster or not.
