@@ -17,9 +17,6 @@ least above 0.85. The higher the better
 b. To achieve the above score, you must perform properly the following: EDA 
 (exploratory data analysis), feature engineering, feature selection, model 
 selection
-c. You can also leverage existing any disaster keywork vocabularies. However, 
-using existing package or API specialized for disaster detection is prohibited. 
-NOT ALLOWED.
 d. Please RANDOMLY split the tweets into 90% for training and 10% for testing 
 or 80% for training/10% for validation/10% for testing. You must have code 
 for random data splitting. Please perform 10 times randomly data splitting and 
